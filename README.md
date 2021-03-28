@@ -2,8 +2,10 @@
 
 
 ## Description:
-In this application you view and track workouts. You can input excerises and duration and it will fliter in the database.People can reach their goals faster when they can see their progress.
+In this application you can enter deposits and expenses offline and when brought back online entries will be in.
 
+
+![screenshot](./screen.png)
 
 ## Table of Contents 
    
@@ -17,7 +19,6 @@ In this application you view and track workouts. You can input excerises and dur
 ## Installation:
 
 * Mongo
-* Express
 * Node
 
 
